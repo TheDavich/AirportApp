@@ -56,5 +56,3 @@ To run the app locally, follow these steps:
 1. Clone this repository.
 2. Open the project in Android Studio.
 3. Build and run the app on an Android emulator or device.
-
-## 📷 Screenshots
